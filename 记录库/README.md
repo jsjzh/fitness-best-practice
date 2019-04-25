@@ -4,4 +4,4 @@
 
 ## 2019 年
 
-[第 17 周](https://github.com/jsjzh/fitness-best-practice/blob/master/%E8%AE%B0%E5%BD%95%E5%BA%93/2019%20%E5%B9%B4/%E7%AC%AC%2017%20%E5%91%A8.md)
+[第 17 周](2019年/第17周.md)
