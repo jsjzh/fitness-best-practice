@@ -6,13 +6,29 @@
 
 [点击直达颈部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/01%20-%20%E9%A2%88%E9%83%A8.md)
 
+![斜方肌](https://www.jianshen8.com/uploads/170503/13-1F5031449151A.jpg)
+
+![胸锁乳突肌](https://www.jianshen8.com/uploads/170503/13-1F503143324a9.png)
+
 ## 肩部
 
 [点击直达肩部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/02%20-%20%E8%82%A9%E9%83%A8.md)
 
+![三角肌前束](https://www.jianshen8.com/uploads/170531/13-1F531093F5939.jpg)
+
+![三角肌中束](https://www.jianshen8.com/uploads/170531/13-1F531093633113.jpg)
+
+![三角肌后束](https://www.jianshen8.com/uploads/170531/13-1F531093614326.jpg)
+
 ## 胸部
 
 [点击直达胸部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/03%20-%20%E8%83%B8%E9%83%A8.md)
+
+![胸大肌](https://www.jianshen8.com/uploads/170531/13-1F53109461Q38.jpg)
+
+![胸小肌](https://www.jianshen8.com/uploads/170531/13-1F53109345A27.jpg)
+
+![胸肌中缝](https://www.jianshen8.com/uploads/170531/13-1F531094559B5.jpg)
 
 ## 臂部
 
