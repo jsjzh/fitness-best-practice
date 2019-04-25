@@ -6,28 +6,28 @@
 
 另外，对于每周应该如何安排自己的训练计划，哪些肌肉群可以第一天狂轰乱炸之后第二天继续训练，哪些肌肉群一周不宜练习太多次不然容易受伤，我会整理一篇文章，有需要的人可以看这里。
 
-[健身知识库](https://github.com/jsjzh/fitness-best-practice/tree/master/%E7%9F%A5%E8%AF%86%E5%BA%93)
+[健身知识库](../知识库)
 
 ## 导航
 
 点击导航直达训练部位
 
-- [颈部](#颈部)
-- [肩部](#肩部)
-- [胸部](#胸部)
-- [臂部](#臂部)
-- [背部](#背部)
-- [腹部](#腹部)
-- [腰部](#腰部)
-- [臀部](#臀部)
-- [腿部](#腿部)
-- [全身](#全身)
+- [颈部](/#颈部)
+- [肩部](/#肩部)
+- [胸部](/#胸部)
+- [臂部](/#臂部)
+- [背部](/#背部)
+- [腹部](/#腹部)
+- [腰部](/#腰部)
+- [臀部](/#臀部)
+- [腿部](/#腿部)
+- [全身](/#全身)
 
 ## 部位
 
 ### 颈部
 
-[回到导航](#导航)
+[回到导航](/#导航)
 
 [点击直达颈部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/01%20-%20%E9%A2%88%E9%83%A8.md)
 
@@ -35,7 +35,7 @@
 
 ### 肩部
 
-[回到导航](#导航)
+[回到导航](/#导航)
 
 [点击直达肩部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/02%20-%20%E8%82%A9%E9%83%A8.md)
 
@@ -47,7 +47,7 @@
 
 ### 胸部
 
-[回到导航](#导航)
+[回到导航](/#导航)
 
 [点击直达胸部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/03%20-%20%E8%83%B8%E9%83%A8.md)
 
@@ -59,7 +59,7 @@
 
 ### 臂部
 
-[回到导航](#导航)
+[回到导航](/#导航)
 
 [点击直达臂部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/04%20-%20%E8%87%82%E9%83%A8.md)
 
@@ -71,7 +71,7 @@
 
 ### 背部
 
-[回到导航](#导航)
+[回到导航](/#导航)
 
 [点击直达背部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/05%20-%20%E8%83%8C%E9%83%A8.md)
 
@@ -81,7 +81,7 @@
 
 ### 腹部
 
-[回到导航](#导航)
+[回到导航](/#导航)
 
 [点击直达腹部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/06%20-%20%E8%85%B9%E9%83%A8.md)
 
@@ -91,7 +91,7 @@
 
 ### 腰部
 
-[回到导航](#导航)
+[回到导航](/#导航)
 
 [点击直达腰部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/07%20-%20%E8%85%B0%E9%83%A8.md)
 
@@ -99,7 +99,7 @@
 
 ### 臀部
 
-[回到导航](#导航)
+[回到导航](/#导航)
 
 [点击直达臀部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/08%20-%20%E8%87%80%E9%83%A8.md)
 
@@ -111,7 +111,7 @@
 
 ### 腿部
 
-[回到导航](#导航)
+[回到导航](/#导航)
 
 [点击直达腿部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/09%20-%20%E8%85%BF%E9%83%A8.md)
 
@@ -125,6 +125,6 @@
 
 ### 全身
 
-[回到导航](#导航)
+[回到导航](/#导航)
 
 [点击直达全身动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/10%20-%20%E5%85%A8%E8%BA%AB.md)
