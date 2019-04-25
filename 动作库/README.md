@@ -61,7 +61,7 @@
 
 [回到导航](#导航)
 
-[点击直达臂部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/04%20-%20%E8%87%80%E9%83%A8.md)
+[点击直达臂部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/04%20-%20%E8%87%82%E9%83%A8.md)
 
 ![肱二头肌](https://www.jianshen8.com/uploads/170531/13-1F531094539563.jpg)
 
