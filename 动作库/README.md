@@ -10,8 +10,6 @@
 
 ![斜方肌](https://www.jianshen8.com/uploads/170503/13-1F5031449151A.jpg)
 
-![胸锁乳突肌](https://www.jianshen8.com/uploads/170503/13-1F503143324a9.png)
-
 ## 肩部
 
 [点击直达肩部动作库](https://github.com/jsjzh/fitness-best-practice/blob/master/%E5%8A%A8%E4%BD%9C%E5%BA%93/%E9%83%A8%E4%BD%8D/02%20-%20%E8%82%A9%E9%83%A8.md)
