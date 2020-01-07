@@ -1,0 +1,11 @@
+{
+  "name": "fitness-best-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jsjzh/fitness-best-practice.git",
+  "author": "金哲豪 <kimimi_king@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "publish": "git add . && git commit -m '添加健身记录' && git push"
+  }
+}
