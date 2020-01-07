@@ -6,6 +6,7 @@
   "author": "金哲豪 <kimimi_king@163.com>",
   "license": "MIT",
   "scripts": {
-    "publish": "git add . && git commit -m '添加健身记录' && git push"
+    "start": "yarn run git:publish",
+    "git:publish": "git add . && git commit -m '添加健身记录' && git push"
   }
 }
